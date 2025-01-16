@@ -15,7 +15,9 @@ Papers and resources that I've found to be particularly useful for health data s
 * https://cran.r-project.org/web/packages/mstate/vignettes/visuals_demo.html
 
 #### Competing Risks
-* A well-written practical guide for reporting using the Fine-Grey model for competing risks; Fine of Fine and Gray is an author https://onlinelibrary.wiley.com/doi/10.1002/sim.7501  
+* A well-written practical guide for reporting using the Fine-Grey model for competing risks; Fine of Fine and Gray is an author https://onlinelibrary.wiley.com/doi/10.1002/sim.7501
+* A useful R tutorial: https://rpubs.com/kaz_yos/cmprsk2
+* An helpful explanation behind the subdistribution (Fine-Grey) and cause-specific survival functions: https://stats.stackexchange.com/questions/587504/subdistribution-cause-specific-survival-functions
 
 ### Splines 
 * Review of spline options, handy for mathematical underpinnings: https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0666-3
