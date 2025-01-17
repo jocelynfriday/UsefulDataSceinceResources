@@ -50,12 +50,13 @@ Papers and resources that I've found to be particularly useful for health data s
 * A helpful book with R code and examples for health data science in R: https://argoshare.is.ed.ac.uk/healthyr_book/
 
 ### General R packages
-* Tidy data and data manipulation through Tidyverse: https://joss.theoj.org/papers/10.21105/joss.01686
-* Creating presentation-ready summary tables through gtsummary: https://www.danieldsjoberg.com/gtsummary/
+* Tidy data and data manipulation through <tt>Tidyverse</tt>: https://joss.theoj.org/papers/10.21105/joss.01686
+* Creating presentation-ready summary tables through <tt>gtsummary</tt> : https://www.danieldsjoberg.com/gtsummary/
 * Cheatsheets for R: https://www.usu.edu/math/amlc/files/r-studio-reference-sheets-compilation.pdf
 
 ### Data visualisation
 * A great way to figure out how best to visualise your data with coded examples: https://www.data-to-viz.com/
+* Interactive and easy data visualisation resource: https://app.flourish.studio/
 
 ## General computational admin
 * The Homebrew is the easy way to install packages on macOS (or Linux): https://brew.sh/
