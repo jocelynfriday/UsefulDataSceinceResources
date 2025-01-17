@@ -7,6 +7,10 @@ Papers and resources that I've found to be particularly useful for health data s
 
 ### Regression
 * Frank Harrell's Regression Modeling Strategies is invaluable: https://hbiostat.org/rmsc/
+
+### Count data
+* An entry-level text for guidance on modelling count data: (DOI: https://doi.org/10.1017/CBO9781139236065)
+  
 #### Time-to-event analysis
 
 ##### Survival Analysis
