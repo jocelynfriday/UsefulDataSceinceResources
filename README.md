@@ -12,11 +12,15 @@ Papers and resources that I've found to be particularly useful for health data s
 * An entry-level text for guidance on modelling count data: (DOI: https://doi.org/10.1017/CBO9781139236065)
   
 #### Time-to-event analysis
-
+* A nice summary of frequently used measures of events (Table 3.3 https://archive.cdc.gov/#/details?url=https://www.cdc.gov/csels/dsepd/ss1978/lesson3/section2.html)
+  
 ##### Survival Analysis
-* A useful introduction to survival analysis with R code and examples: https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html#Part_1:_Introduction_to_Survival_Analysis
+* A helpful introduction to survival analysis with R code and examples: https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html#Part_1:_Introduction_to_Survival_Analysis
+* Another tutorial: https://rpubs.com/alecri/258589
+* A helpful guide for time-varying covariates with SAS and R code: https://www.jstatsoft.org/article/view/v061c01/v61c01.pdf
 
 ##### Multistate analysis
+* A helpful explanation of multi-state models for survival analysis: https://journals.sagepub.com/doi/10.1177/0962280208092301
 * Multi-state visualisation: https://cran.r-project.org/web/packages/mstate/vignettes/visuals_demo.html
 
 ##### Competing Risks
