@@ -8,7 +8,7 @@ Papers and resources that I've found to be particularly useful for health data s
 ### Regression
 * Frank Harrell's Regression Modeling Strategies is invaluable: https://hbiostat.org/rmsc/
 
-### Count data
+#### Count data
 * An entry-level text for guidance on modelling count data: (DOI: https://doi.org/10.1017/CBO9781139236065)
   
 #### Time-to-event analysis
@@ -44,6 +44,11 @@ Papers and resources that I've found to be particularly useful for health data s
 
 ## Data manipulation
 * A helpful book with R code and examples for health data science in R: https://argoshare.is.ed.ac.uk/healthyr_book/
+
+### General R packages
+* Tidy data and data manipulation through Tidyverse: https://joss.theoj.org/papers/10.21105/joss.01686
+* Creating presentation-ready summary tables through gtsummary: https://www.danieldsjoberg.com/gtsummary/
+* Cheatsheets for R: https://www.usu.edu/math/amlc/files/r-studio-reference-sheets-compilation.pdf
 
 ### Data visualisation
 * A great way to figure out how best to visualise your data with coded examples: https://www.data-to-viz.com/
