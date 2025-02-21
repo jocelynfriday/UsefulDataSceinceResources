@@ -9,7 +9,7 @@ Papers and resources that I've found to be particularly useful for health data s
 * Frank Harrell's Regression Modeling Strategies is invaluable: https://hbiostat.org/rmsc/
 
 #### Count data
-* An entry-level text for guidance on modelling count data: (DOI: https://doi.org/10.1017/CBO9781139236065)
+* An entry-level text for guidance on modelling count data with examples in Stata, R and SAS, <ins>Modeling Count Data</ins> by Joseph M. Hilbe (DOI: https://doi.org/10.1017/CBO9781139236065)
   
 #### Time-to-event analysis
 * A nice summary of frequently used measures of events (Table 3.3 https://archive.cdc.gov/#/details?url=https://www.cdc.gov/csels/dsepd/ss1978/lesson3/section2.html)
