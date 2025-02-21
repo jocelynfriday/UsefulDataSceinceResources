@@ -61,7 +61,8 @@ The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by
 * A great way to figure out how best to visualise your data with coded examples: https://www.data-to-viz.com/
 * Interactive and easy data visualisation resource: https://app.flourish.studio/
 * Tool for generating scientific images and illustrations: https://www.biorender.com/
-* Edward Tufte is a master of data visualisation, called the "Leonardo da Vinci of data," by the <ins>The New York Times</ins>: https://www.edwardtufte.com/books/
+* Edward Tufte is a master of data visualisation, called the "Leonardo da Vinci of data," by the <i>The New York Times</i>: https://www.edwardtufte.com/books/
+* A color blinness simulator for checking how illustrations and figures appear under different kinds of color blindess: https://www.color-blindness.com/coblis-color-blindness-simulator/
 
 ## General computational admin
 * The Homebrew is the easy way to install packages on macOS (or Linux): https://brew.sh/
