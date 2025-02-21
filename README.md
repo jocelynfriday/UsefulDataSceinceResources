@@ -36,9 +36,10 @@ Papers and resources that I've found to be particularly useful for health data s
 * Review of spline options, handy for mathematical underpinnings: https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0666-3
 
 ## Epidemiology
+The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by Kenneth Rothman (https://www.wolterskluwer.com/en/solutions/ovid/modern-epidemiology-4634). Read <ins>Epidemiology: An Introroduction</ins> (https://global.oup.com/academic/product/epidemiology-9780197751541?cc=gb&lang=en&) by the same author for an overview. 
 
 ### Incidence & Prevalence
-* Prevalent cases in observational studies -  https://pmc.ncbi.nlm.nih.gov/articles/PMC2695697/
+* Prevalent cases in observational studies - https://pmc.ncbi.nlm.nih.gov/articles/PMC2695697/
 * Calculating incidence rates and prevalence proportions - https://core.ac.uk/download/pdf/219687452.pdf
 * Useful for explanation of incidence rate calculation using look-back periods (see supplementary materials Figure S1): https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.118.034986#abstract
 
@@ -59,6 +60,8 @@ Papers and resources that I've found to be particularly useful for health data s
 ### Data visualisation
 * A great way to figure out how best to visualise your data with coded examples: https://www.data-to-viz.com/
 * Interactive and easy data visualisation resource: https://app.flourish.studio/
+* Tool for generating scientific images and illustrations: https://www.biorender.com/
+* Edward Tufte is a master of data visualisation, called the "Leonardo da Vinci of data," by the <ins>The New York Times</ins>: https://www.edwardtufte.com/books/
 
 ## General computational admin
 * The Homebrew is the easy way to install packages on macOS (or Linux): https://brew.sh/
