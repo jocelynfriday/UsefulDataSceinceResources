@@ -27,6 +27,7 @@ Papers and resources that I've found to be particularly useful for health data s
 * A general introduction to competing risks: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.115.017719?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org 
 * A well-written practical guide for reporting using the Fine-Grey model for competing risks; Fine of Fine and Gray is an author https://onlinelibrary.wiley.com/doi/10.1002/sim.7501
 * A helpful explanation behind the subdistribution (Fine-Grey) and cause-specific survival functions: https://stats.stackexchange.com/questions/587504/subdistribution-cause-specific-survival-functions
+* When to use cause-specific HR vs. Fine-Gray model? https://academic.oup.com/aje/article-abstract/170/2/244/111339
 * R specific resources:
   * A helpful R tutorial: https://rpubs.com/kaz_yos/cmprsk2
   * Easy subdistribution R package: https://mskcc-epi-bio.github.io/tidycmprsk/
@@ -34,6 +35,8 @@ Papers and resources that I've found to be particularly useful for health data s
 
 ### Splines 
 * Review of spline options, handy for mathematical underpinnings: https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0666-3
+* A good comparison of splines vs. fractional polynomails: https://onlinelibrary.wiley.com/doi/full/10.1002/sim.5639
+* A starter's guide on non-linear methods: https://bmjmedicine.bmj.com/content/2/1/e000396 
 
 ## Epidemiology
 The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by Kenneth Rothman (https://www.wolterskluwer.com/en/solutions/ovid/modern-epidemiology-4634). Read <ins>Epidemiology: An Introroduction</ins> (https://global.oup.com/academic/product/epidemiology-9780197751541?cc=gb&lang=en&) by the same author for an overview. 
@@ -43,6 +46,12 @@ The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by
 * Calculating incidence rates and prevalence proportions - https://core.ac.uk/download/pdf/219687452.pdf
 * Useful for explanation of incidence rate calculation using look-back periods (see supplementary materials Figure S1): https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.118.034986#abstract
 
+### Biases and fallacies
+* Table 2 fallacy - should we present coefficients/RR/HR for confounders? https://academic.oup.com/aje/article/177/4/292/147738
+* Overadjustment bias - should we adjust for everything? https://pmc.ncbi.nlm.nih.gov/articles/PMC2744485/
+* Collider bias - how and why conditioning on a common effect (collider) could lead to spurious assocaitions? https://www.bmj.com/content/381/bmj.p1135
+* Selection bias - https://link.springer.com/article/10.1007/s40471-020-00241-6
+
 ## Electronic patient records
 * Scotland-specific resources: https://github.com/jocelynfriday/EPRResources
 * Systematic review of the different definitions of major adverse cardiovascular event definitions (MACE): https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01440-5
@@ -50,6 +59,7 @@ The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by
 
 ## Data manipulation
 * A helpful book with R code and examples for health data science in R: https://argoshare.is.ed.ac.uk/healthyr_book/
+* A general data manipulation and visualisation using the tidyverse packages in R: https://r4ds.hadley.nz/
 
 ### General R packages
 * Tidy data and data manipulation through <tt>Tidyverse</tt>: https://joss.theoj.org/papers/10.21105/joss.01686
