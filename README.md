@@ -46,6 +46,12 @@ The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by
 * Calculating incidence rates and prevalence proportions - https://core.ac.uk/download/pdf/219687452.pdf
 * Useful for explanation of incidence rate calculation using look-back periods (see supplementary materials Figure S1): https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.118.034986#abstract
 
+### Biases and fallacies
+* Table 2 fallacy - should we present coefficients/RR/HR for confounders? https://academic.oup.com/aje/article/177/4/292/147738
+* Overadjustment bias - should we adjust for everything? https://pmc.ncbi.nlm.nih.gov/articles/PMC2744485/
+* Collider bias - how and why conditioning on a common effect (collider) could lead to spurious assocaitions? https://www.bmj.com/content/381/bmj.p1135
+* Selection bias - https://link.springer.com/article/10.1007/s40471-020-00241-6
+
 ## Electronic patient records
 * Scotland-specific resources: https://github.com/jocelynfriday/EPRResources
 * Systematic review of the different definitions of major adverse cardiovascular event definitions (MACE): https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01440-5
