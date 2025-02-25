@@ -49,13 +49,14 @@ The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by
 ### Biases and fallacies
 * Table 2 fallacy - should we present coefficients/RR/HR for confounders? https://academic.oup.com/aje/article/177/4/292/147738
 * Overadjustment bias - should we adjust for everything? https://pmc.ncbi.nlm.nih.gov/articles/PMC2744485/
-* Collider bias - how and why conditioning on a common effect (collider) could lead to spurious assocaitions? https://www.bmj.com/content/381/bmj.p1135
+* Collider bias - how and why conditioning on a common effect (collider) could lead to spurious associations? https://www.bmj.com/content/381/bmj.p1135
 * Selection bias - https://link.springer.com/article/10.1007/s40471-020-00241-6
 
 ## Electronic patient records
 * Scotland-specific resources: https://github.com/jocelynfriday/EPRResources
 * Systematic review of the different definitions of major adverse cardiovascular event definitions (MACE): https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01440-5
 * Kuan V. and Denaxas S et al. (the team behind the original CALIBER phenotypes)'s GitHub for machine-readable electronic health record phenotypes: https://github.com/HDRUK/chronological-map-phenotypes/tree/master
+* Atlas of Longitudinal Datasets to find longitudinal data around the world: https://atlaslongitudinaldatasets.ac.uk/
 
 ## Data manipulation
 * A helpful book with R code and examples for health data science in R: https://argoshare.is.ed.ac.uk/healthyr_book/
@@ -72,7 +73,7 @@ The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by
 * Interactive and easy data visualisation resource: https://app.flourish.studio/
 * Tool for generating scientific images and illustrations: https://www.biorender.com/
 * Edward Tufte is a master of data visualisation, called the "Leonardo da Vinci of data," by the <i>The New York Times</i>: https://www.edwardtufte.com/books/
-* A color blinness simulator for checking how illustrations and figures appear under different kinds of color blindess: https://www.color-blindness.com/coblis-color-blindness-simulator/
+* A colour blindness simulator for checking how illustrations and figures appear under different kinds of color blindess: https://www.color-blindness.com/coblis-color-blindness-simulator/
 
 ## General computational admin
 * The Homebrew is the easy way to install packages on macOS (or Linux): https://brew.sh/
