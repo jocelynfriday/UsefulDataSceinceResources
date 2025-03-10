@@ -61,6 +61,7 @@ The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by
 ## Data manipulation
 * A helpful book with R code and examples for health data science in R: https://argoshare.is.ed.ac.uk/healthyr_book/
 * A general data manipulation and visualisation using the tidyverse packages in R: https://r4ds.hadley.nz/
+* A great introduction to doing data science in R based on the <tt>Tidyverse</tt> structure: https://r4ds.hadley.nz/
 
 ### General R packages
 * Tidy data and data manipulation through <tt>Tidyverse</tt>: https://joss.theoj.org/papers/10.21105/joss.01686
