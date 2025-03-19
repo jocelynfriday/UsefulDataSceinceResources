@@ -66,6 +66,7 @@ The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by
 ### General R packages
 * Tidy data and data manipulation through <tt>Tidyverse</tt>: https://joss.theoj.org/papers/10.21105/joss.01686
 * Creating presentation-ready summary tables through <tt>gtsummary</tt> : https://www.danieldsjoberg.com/gtsummary/
+* Visualising survival analysis and producing Kaplan-Meier curves and cumulative incidence analysis <tt>ggsurvfit</tt>: https://www.danieldsjoberg.com/ggsurvfit/
 * When dealing with larger datasets, consider using using <tt>data.table</tt>: https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html
 * Cheatsheets for R: https://www.usu.edu/math/amlc/files/r-studio-reference-sheets-compilation.pdf
 
