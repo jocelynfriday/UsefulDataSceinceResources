@@ -66,6 +66,7 @@ The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by
 ### General R packages
 * Tidy data and data manipulation through <tt>Tidyverse</tt>: https://joss.theoj.org/papers/10.21105/joss.01686
 * Creating presentation-ready summary tables through <tt>gtsummary</tt> : https://www.danieldsjoberg.com/gtsummary/
+  * Splitting one variable (row) by another categorical variable (e.g., reporting haemoglobin levels by sex): https://forum.posit.co/t/summarizing-a-continuous-variables-by-two-categorical-variables-with-the-gtsummary-package/81937
 * Visualising survival analysis and producing Kaplan-Meier curves and cumulative incidence analysis <tt>ggsurvfit</tt>: https://www.danieldsjoberg.com/ggsurvfit/
 * When dealing with larger datasets, consider using using <tt>data.table</tt>: https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html
 * Cheatsheets for R: https://www.usu.edu/math/amlc/files/r-studio-reference-sheets-compilation.pdf
@@ -75,7 +76,7 @@ The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by
 * Interactive and easy data visualisation resource: https://app.flourish.studio/
 * Tool for generating scientific images and illustrations: https://www.biorender.com/
 * Edward Tufte is a master of data visualisation, called the "Leonardo da Vinci of data," by the <i>The New York Times</i>: https://www.edwardtufte.com/books/
-* A colour blindness simulator for checking how illustrations and figures appear under different kinds of color blindess: https://www.color-blindness.com/coblis-color-blindness-simulator/
+* A colour blindness simulator for checking how illustrations and figures appear under different kinds of colour blindness: https://www.color-blindness.com/coblis-color-blindness-simulator/
 
 ## General computational admin
 * The Homebrew is the easy way to install packages on macOS (or Linux): https://brew.sh/
