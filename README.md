@@ -4,6 +4,7 @@ Papers and resources that I've found to be particularly useful for health data s
 ## Statistics
 ### General
 * Frank Harrell's author checklist: https://discourse.datamethods.org/t/author-checklist/3407
+* Frank Harrell's Biostatistics for Biomedical Research: https://hbiostat.org/bbr
 
 ### Regression
 * Frank Harrell's Regression Modeling Strategies is invaluable: https://hbiostat.org/rmsc/
