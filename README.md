@@ -78,6 +78,7 @@ The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by
 * Tool for generating scientific images and illustrations: https://www.biorender.com/
 * Edward Tufte is a master of data visualisation, called the "Leonardo da Vinci of data," by the <i>The New York Times</i>: https://www.edwardtufte.com/books/
 * A colour blindness simulator for checking how illustrations and figures appear under different kinds of colour blindness: https://www.color-blindness.com/coblis-color-blindness-simulator/
+* An alternative to an overcrowded Venn diagram: https://upset.app/
 
 ## General computational admin
 * The Homebrew is the easy way to install packages on macOS (or Linux): https://brew.sh/
