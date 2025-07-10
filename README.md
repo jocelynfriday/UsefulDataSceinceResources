@@ -26,17 +26,17 @@ Papers and resources that I've found to be particularly useful for health data s
 
 ##### Competing Risks
 * A general introduction to competing risks: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.115.017719?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org 
-* A well-written practical guide for reporting using the Fine-Grey model for competing risks; Fine of Fine and Gray is an author https://onlinelibrary.wiley.com/doi/10.1002/sim.7501
+* A well-written practical guide for reporting using the Fine-Gray model for competing risks; Fine, of the Fine-Gray model, is an author https://onlinelibrary.wiley.com/doi/10.1002/sim.7501
 * A helpful explanation behind the subdistribution (Fine-Grey) and cause-specific survival functions: https://stats.stackexchange.com/questions/587504/subdistribution-cause-specific-survival-functions
 * When to use cause-specific HR vs. Fine-Gray model? https://academic.oup.com/aje/article-abstract/170/2/244/111339
-* R specific resources:
+* R-specific resources:
   * A helpful R tutorial: https://rpubs.com/kaz_yos/cmprsk2
   * Easy subdistribution R package: https://mskcc-epi-bio.github.io/tidycmprsk/
 
 
 ### Splines 
 * Review of spline options, handy for mathematical underpinnings: https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0666-3
-* A good comparison of splines vs. fractional polynomails: https://onlinelibrary.wiley.com/doi/full/10.1002/sim.5639
+* A good comparison of splines vs. fractional polynomials: https://onlinelibrary.wiley.com/doi/full/10.1002/sim.5639
 * A starter's guide on non-linear methods: https://bmjmedicine.bmj.com/content/2/1/e000396 
 
 ## Epidemiology
