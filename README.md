@@ -1,5 +1,5 @@
 # Useful Data Science Resources
-Papers and resources that I've found to be particularly useful for health data science research (including stats, epidemiology, coding, etc.).  Of course, StackOverflow and StackExchange are constantly open in one form or fashion.  The following links are additional references I've found particularly helpful over time.  
+Papers and resources that have been particularly useful for health data science research (including stats, epidemiology, coding, etc.).  Of course, Stack Overflow and Stack Exchange are constantly open in one form or another.  The following links are additional references I've found particularly helpful over time.  
 
 ## Statistics
 ### General
@@ -7,7 +7,7 @@ Papers and resources that I've found to be particularly useful for health data s
 * Frank Harrell's Biostatistics for Biomedical Research: https://hbiostat.org/bbr
 
 ### Regression
-* Frank Harrell's Regression Modeling Strategies is invaluable: https://hbiostat.org/rmsc/
+* Frank Harrell's Regression Modelling Strategies is invaluable: https://hbiostat.org/rmsc/
 
 #### Count data
 * An entry-level text for guidance on modelling count data with examples in Stata, R and SAS, <ins>Modeling Count Data</ins> by Joseph M. Hilbe (DOI: https://doi.org/10.1017/CBO9781139236065)
@@ -20,7 +20,7 @@ Papers and resources that I've found to be particularly useful for health data s
 * Another tutorial: https://rpubs.com/alecri/258589
 * A helpful guide for time-varying covariates with SAS and R code: https://www.jstatsoft.org/article/view/v061c01/v61c01.pdf
 
-##### Multistate analysis
+##### Multi-state analysis
 * A helpful explanation of multi-state models for survival analysis: https://journals.sagepub.com/doi/10.1177/0962280208092301
 * Multi-state visualisation: https://cran.r-project.org/web/packages/mstate/vignettes/visuals_demo.html
 
