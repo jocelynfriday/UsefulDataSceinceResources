@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/917653541.svg)](https://doi.org/10.5281/zenodo.16949040)
+
 # Useful Data Science Resources
 Papers and resources that have been particularly useful for health data science research (including stats, epidemiology, coding, etc.).  Of course, Stack Overflow and Stack Exchange are constantly open in one form or another.  The following links are additional references I've found particularly helpful over time.  
 
