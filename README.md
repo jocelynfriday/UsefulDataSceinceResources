@@ -18,7 +18,7 @@ Papers and resources that have been particularly useful for health data science 
 #### Time-to-event analysis
 * A nice summary of frequently used measures of events (Table 3.3 https://archive.cdc.gov/#/details?url=https://www.cdc.gov/csels/dsepd/ss1978/lesson3/section2.html)
   
-##### Survival Analysis
+##### Survival analysis
 * A helpful introduction to survival analysis with R code and examples: https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html#Part_1:_Introduction_to_Survival_Analysis
 * Another tutorial: https://rpubs.com/alecri/258589
 * A helpful guide for time-varying covariates with SAS and R code: https://www.jstatsoft.org/article/view/v061c01/v61c01.pdf
@@ -27,7 +27,7 @@ Papers and resources that have been particularly useful for health data science 
 * A helpful explanation of multi-state models for survival analysis: https://journals.sagepub.com/doi/10.1177/0962280208092301
 * Multi-state visualisation: https://cran.r-project.org/web/packages/mstate/vignettes/visuals_demo.html
 
-##### Competing Risks
+##### Competing risks
 * A general introduction to competing risks: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.115.017719?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org 
 * A well-written practical guide for reporting using the Fine-Gray model for competing risks; Fine, of the Fine-Gray model, is an author https://onlinelibrary.wiley.com/doi/10.1002/sim.7501
 * A helpful explanation behind the subdistribution (Fine-Grey) and cause-specific survival functions: https://stats.stackexchange.com/questions/587504/subdistribution-cause-specific-survival-functions
@@ -44,7 +44,7 @@ Papers and resources that have been particularly useful for health data science 
 ## Epidemiology
 The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by Kenneth Rothman (https://www.wolterskluwer.com/en/solutions/ovid/modern-epidemiology-4634). Read <ins>Epidemiology: An Introroduction</ins> (https://global.oup.com/academic/product/epidemiology-9780197751541?cc=gb&lang=en&) by the same author for an overview. 
 
-### Incidence & Prevalence
+### Incidence & prevalence
 * Prevalent cases in observational studies - https://pmc.ncbi.nlm.nih.gov/articles/PMC2695697/
 * Calculating incidence rates and prevalence proportions - https://core.ac.uk/download/pdf/219687452.pdf
 * Useful for explanation of incidence rate calculation using look-back periods (see supplementary materials Figure S1): https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.118.034986#abstract
