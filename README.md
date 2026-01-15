@@ -10,6 +10,7 @@ Papers and resources that have been particularly useful for health data science 
 
 ### Regression
 * Frank Harrell's Regression Modelling Strategies is invaluable: https://hbiostat.org/rmsc/
+* An informative explanation showing how most of the common statistical models (e.g., t-test, correlation, chi-square, etc. are actually special cases of linear models (or very close approximations).  Jonas Kristoffer Lindeløv's post walks through the explanations with toy examples and code: https://lindeloev.github.io/tests-as-linear/
 
 #### Count data
 * An entry-level text for guidance on modelling count data with examples in Stata, R and SAS, <ins>Modeling Count Data</ins> by Joseph M. Hilbe (DOI: https://doi.org/10.1017/CBO9781139236065)
@@ -34,7 +35,6 @@ Papers and resources that have been particularly useful for health data science 
 * R-specific resources:
   * A helpful R tutorial: https://rpubs.com/kaz_yos/cmprsk2
   * Easy subdistribution R package: https://mskcc-epi-bio.github.io/tidycmprsk/
-
 
 ### Splines 
 * Review of spline options, handy for mathematical underpinnings: https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0666-3
