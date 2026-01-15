@@ -85,4 +85,7 @@ The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by
 ## General computational admin
 * The Homebrew is the easy way to install packages on macOS (or Linux): https://brew.sh/
 
+## Science communication
+* A great article published in JAMA giving practical insights into how to communicate medical numbers to help guide decisions and improve communication of statistics: https://jamanetwork.com/journals/jama/fullarticle/2839303?utm_source=email&utm_campaign=content-shareicons&utm_content=article_engagement&utm_medium=social&utm_term=103125
+  
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/jocelynfriday/UsefulDataSceinceResources">Useful Data Science Resources</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/jocelynfriday">Jocelyn M Friday</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
