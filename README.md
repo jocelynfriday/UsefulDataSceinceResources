@@ -8,7 +8,11 @@ Papers and resources that have been particularly useful for health data science 
 * Frank Harrell's author checklist: https://discourse.datamethods.org/t/author-checklist/3407
 * Frank Harrell's Biostatistics for Biomedical Research: https://hbiostat.org/bbr
 
+### Probability
+* A great visual introduction to probability: https://seeing-theory.brown.edu/
+
 ### Regression
+* A great visual introduction to regression analysis: https://seeing-theory.brown.edu/regression-analysis/index.html
 * Frank Harrell's Regression Modelling Strategies is invaluable: https://hbiostat.org/rmsc/
 * An informative explanation showing how most of the common statistical models (e.g., t-test, correlation, chi-square, etc. are actually special cases of linear models (or very close approximations).  Jonas Kristoffer Lindeløv's post walks through the explanations with toy examples and code: https://lindeloev.github.io/tests-as-linear/
 
