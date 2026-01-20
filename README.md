@@ -16,22 +16,22 @@ Papers and resources that have been particularly useful for health data science 
 * Frank Harrell's Regression Modelling Strategies is invaluable: https://hbiostat.org/rmsc/
 * An informative explanation showing how most of the common statistical models (e.g., t-test, correlation, chi-square, etc. are actually special cases of linear models (or very close approximations).  Jonas Kristoffer Lindeløv's post walks through the explanations with toy examples and code: https://lindeloev.github.io/tests-as-linear/
 
-#### Count data
+### Count data
 * An entry-level text for guidance on modelling count data with examples in Stata, R and SAS, <ins>Modeling Count Data</ins> by Joseph M. Hilbe (DOI: https://doi.org/10.1017/CBO9781139236065)
   
-#### Time-to-event analysis
+### Time-to-event analysis
 * A nice summary of frequently used measures of events (Table 3.3 https://archive.cdc.gov/#/details?url=https://www.cdc.gov/csels/dsepd/ss1978/lesson3/section2.html)
   
-##### Survival analysis
+#### Survival analysis
 * A helpful introduction to survival analysis with R code and examples: https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html#Part_1:_Introduction_to_Survival_Analysis
 * Another tutorial: https://rpubs.com/alecri/258589
 * A helpful guide for time-varying covariates with SAS and R code: https://www.jstatsoft.org/article/view/v061c01/v61c01.pdf
 
-##### Multi-state analysis
+#### Multi-state analysis
 * A helpful explanation of multi-state models for survival analysis: https://journals.sagepub.com/doi/10.1177/0962280208092301
 * Multi-state visualisation: https://cran.r-project.org/web/packages/mstate/vignettes/visuals_demo.html
 
-##### Competing risks
+#### Competing risks
 * A general introduction to competing risks: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.115.017719?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org 
 * A well-written practical guide for reporting using the Fine-Gray model for competing risks; Fine, of the Fine-Gray model, is an author https://onlinelibrary.wiley.com/doi/10.1002/sim.7501
 * A helpful explanation behind the subdistribution (Fine-Grey) and cause-specific survival functions: https://stats.stackexchange.com/questions/587504/subdistribution-cause-specific-survival-functions
@@ -78,7 +78,7 @@ The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by
 * When dealing with larger datasets, consider using using <tt>data.table</tt>: https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html
 * Cheatsheets for R: https://www.usu.edu/math/amlc/files/r-studio-reference-sheets-compilation.pdf
 
-### Data visualisation
+## Data visualisation
 * A great way to figure out how best to visualise your data with coded examples: https://www.data-to-viz.com/
 * Interactive and easy data visualisation resource: https://app.flourish.studio/
 * Tool for generating scientific images and illustrations: https://www.biorender.com/
