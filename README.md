@@ -26,6 +26,7 @@ Papers and resources that have been particularly useful for health data science 
 * A helpful introduction to survival analysis with R code and examples: https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html#Part_1:_Introduction_to_Survival_Analysis
 * Another tutorial: https://rpubs.com/alecri/258589
 * A helpful guide for time-varying covariates with SAS and R code: https://www.jstatsoft.org/article/view/v061c01/v61c01.pdf
+* A paper on good practice and pitfalls when presenting survival plots: https://www-sciencedirect-com.ezproxy1.lib.gla.ac.uk/science/article/pii/S014067360208594X?via%3Dihub
 
 #### Multi-state analysis
 * A helpful explanation of multi-state models for survival analysis: https://journals.sagepub.com/doi/10.1177/0962280208092301
