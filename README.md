@@ -66,6 +66,26 @@ The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by
 * Systematic review of the different definitions of major adverse cardiovascular event definitions (MACE): https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01440-5
 * Kuan V. and Denaxas S et al. (the team behind the original CALIBER phenotypes)'s GitHub for machine-readable electronic health record phenotypes: https://github.com/HDRUK/chronological-map-phenotypes/tree/master
 * Atlas of Longitudinal Datasets to find longitudinal data around the world: https://atlaslongitudinaldatasets.ac.uk/
+- Helpful paper on NHS data flows by Zhang et al (DOI: https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00157-7/fulltext)
+- Blog about how data gets from the clinic to research database (https://www.carolinemorton.co.uk/blog/clinic-to-code-to-care/)
+
+### Codelists
+
+**Papers**
+
+- Checklist and guidance on creating codelists for routinely collected health data research (DOI: https://pmc.ncbi.nlm.nih.gov/articles/PMC11437289/) by Matthewman et al
+
+**Blogs**
+
+- What is a codelist https://www.carolinemorton.co.uk/blog/what-is-a-codelist/
+- How to create codelists https://www.carolinemorton.co.uk/blog/how-to-make-codelist/
+
+**Useful Tools and websites**
+
+- OpenCodelists - creating and browse codelists for EHR https://www.opencodelists.org/
+- OpenCodeCounts - see how commonly a code is used in NHS data: https://bennettoxford.github.io/opencodecounts/articles/app.html
+- BeyondCompare - a useful tool for comparing two codelists and seeing where they differ: https://www.scootersoftware.com/
+- SNOMED CT browser - a helpful tool for browsing SNOMED CT codes in your specific country: https://browser.ihtsdotools.org/
 
 ## Data manipulation
 * A helpful book with R code and examples for health data science in R: https://argoshare.is.ed.ac.uk/healthyr_book/
