@@ -25,7 +25,7 @@ Papers and resources that have been particularly useful for health data science 
 #### Survival analysis
 * A helpful introduction to survival analysis with R code and examples: https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html#Part_1:_Introduction_to_Survival_Analysis
 * Another tutorial: https://rpubs.com/alecri/258589
-* A helpful tutorial to survival analysis using Stata with examples: https://stats.oarc.ucla.edu/stata/seminars/stata-survival/
+* A helpful tutorial on survival analysis using Stata with examples: https://stats.oarc.ucla.edu/stata/seminars/stata-survival/
 * A helpful guide for time-varying covariates with SAS and R code: https://www.jstatsoft.org/article/view/v061c01/v61c01.pdf
 * A paper on good practice and pitfalls when presenting survival plots: https://www-sciencedirect-com.ezproxy1.lib.gla.ac.uk/science/article/pii/S014067360208594X?via%3Dihub
 
@@ -67,7 +67,7 @@ The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by
 * Kuan V. and Denaxas S et al. (the team behind the original CALIBER phenotypes)'s GitHub for machine-readable electronic health record phenotypes: https://github.com/HDRUK/chronological-map-phenotypes/tree/master
 * Atlas of Longitudinal Datasets to find longitudinal data around the world: https://atlaslongitudinaldatasets.ac.uk/
 - Helpful paper on NHS data flows by Zhang et al (DOI: https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00157-7/fulltext)
-- Blog about how data gets from the clinic to research database (https://www.carolinemorton.co.uk/blog/clinic-to-code-to-care/)
+- Blog about how data gets from the clinic to the research database (https://www.carolinemorton.co.uk/blog/clinic-to-code-to-care/)
 
 ### Codelists
 
@@ -82,7 +82,7 @@ The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by
 
 **Useful Tools and websites**
 
-- OpenCodelists - creating and browse codelists for EHR https://www.opencodelists.org/
+- OpenCodelists - creating and browsing codelists for EHR https://www.opencodelists.org/
 - OpenCodeCounts - see how commonly a code is used in NHS data: https://bennettoxford.github.io/opencodecounts/articles/app.html
 - BeyondCompare - a useful tool for comparing two codelists and seeing where they differ: https://www.scootersoftware.com/
 - SNOMED CT browser - a helpful tool for browsing SNOMED CT codes in your specific country: https://browser.ihtsdotools.org/
