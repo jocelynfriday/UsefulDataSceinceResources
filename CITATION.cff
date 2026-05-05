@@ -1,33 +1,25 @@
-cff-version: 1.0
-title: Useful Data Science Resources
-message: 'If you use this document, please cite it as below.'
-type: generic
+cff-version: 1.2.0
+message: "If you use this resource, please cite it as below."
 authors:
-  - given-names: Jocelyn
-    name-particle: M
-    family-names: Friday
-    orcid: 'https://orcid.org/0000-0002-1658-3883'
-  - given-names: Caroline
-    family-names: Morton
-  - given-names: Frederick
-    name-particle: K
-    family-names: Ho
-    orcid: 'https://orcid.org/0000-0001-7190-9025'
-  - given-names: Kevin
-    family-names: Wing
-    orcid: 'https://orcid.org/0000-0003-2335-9641'
-  - family-names: Cannatà
-    given-names: Antonio
-    orcid: 'https://orcid.org/0000-0001-7609-6297'
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.16949041
-url: >-
-  https://github.com/jocelynfriday/UsefulDataSceinceResources
-abstract: >-
-  Papers and resources that have been particularly useful
-  for health data science research (including stats,
-  epidemiology, coding, etc.).
-license: CC-BY-4.0
-version: v1.1.1
-date-released: '2026-05-05'
+- family-names: "Friday"
+  name-particle: "M"
+  given-names: "Jocelyn"
+  orcid: "https://orcid.org/0000-0002-1658-3883"
+- family-names: "Morton"
+  given-names: "Caroline"
+  orcid: "https://orcid.org/0000-0003-0783-0042"
+- family-names: "Ho"
+  name-particle: "K"
+  given-names: "Frederick"
+  orcid: "https://orcid.org/0000-0001-7190-9025"
+- family-names: "Wing"
+  given-names: "Kevin"
+  orcid: "https://orcid.org/0000-0003-2335-9641"
+- family-names: "Cannatà"
+  given-names: "Antonio"
+  orcid: "https://orcid.org/0000-0001-7609-6297"
+title: "Useful Data Science Resources"
+version: 1.1.1
+doi: 10.5281/zenodo.1234
+date-released: 2026-05-05
+url: "https://github.com/jocelynfriday/UsefulDataSceinceResources"
