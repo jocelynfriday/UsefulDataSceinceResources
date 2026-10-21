@@ -45,7 +45,13 @@ Papers and resources that have been particularly useful for health data science 
 ### Splines 
 * Review of spline options, handy for mathematical underpinnings: https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0666-3
 * A good comparison of splines vs. fractional polynomials: https://onlinelibrary.wiley.com/doi/full/10.1002/sim.5639
-* A starter's guide on non-linear methods: https://bmjmedicine.bmj.com/content/2/1/e000396 
+* A starter's guide on non-linear methods: https://bmjmedicine.bmj.com/content/2/1/e000396
+
+### Variable selection
+#### Stepwise regression
+* An overview of stepwise regression with R code: https://bookdown.org/siddiq/dnd/variable-selection.html#stepwise-regression
+#### LASSO (Least Absolute Shrinkage and Selection Operator) 
+* A great overview of the <tt>glmnet</tt> R package for fitting the entire lasso or elastic-net regularisation path: https://glmnet.stanford.edu/articles/glmnet.html
 
 ## Epidemiology
 The gold standard textbook for epidemiology is <ins>Modern Epidemiology</ins> by Kenneth Rothman (https://www.wolterskluwer.com/en/solutions/ovid/modern-epidemiology-4634). Read <ins>Epidemiology: An Introroduction</ins> (https://global.oup.com/academic/product/epidemiology-9780197751541?cc=gb&lang=en&) by the same author for an overview. 
